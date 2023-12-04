@@ -103,6 +103,57 @@
     },
     {
         "auth": {
+            "password": "gratis",
+            "username": "gratis",
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "CONEXÃO VIVO GRÁTIS",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "PATCH / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]#HEAD / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]#GET / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "Easy Front",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Elijah8585/TeleNet/main/20231202_130839.png",
+        "id": 67075,
+        "mode": "SSH_PROXY",
+        "name": "VIVO EASY 2 ➜ GRÁTIS",
+        "proxy": {
+            "host": "conversions.appsflyer.com#3.163.10.112#3.163.10.104#3.163.10.54#3.163.10.121#13.227.97.69#13.227.97.28#13.227.97.116#13.227.97.49#launches.appsflyer.com#13.33.123.128#13.33.123.29#13.33.123.107#13.33.123.19#18.67.145.96#18.64.207.89#13.227.126.58#13.227.126.58#18.67.129.17#c6bank.onelink.me#99.84.31.110#99.84.31.38#99.84.31.63#99.84.31.9#13.248.245.213#54.231.225.121#65.9.95.105#18.66.147.27#108.158.172.101#108.158.172.59#108.158.172.82#108.158.172.10#99.84.37.44#13.226.22.87",
+            "port": 80
+        },
+        "server": {
+            "host": "0269v5115i8kd735e6.speedup.mobi",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://186.233.118.151:5000",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
             "password": null,
             "username": null,
             "v2ray_uuid": null
