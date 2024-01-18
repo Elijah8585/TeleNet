@@ -69,7 +69,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "ACL / HTTP/1.1[lf]Host: 0380556ip57dpb3771.speedup.mobi[lf]Upgrade: Websocket[lf][split][lf]",
+            "payload": "PATCH / HTTP/1.1[lf]Host: 0380556ip57dpb3771.speedup.mobilf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]#GET / HTTP/1.1[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf]@0380556ip57dpb3771.speedup.mobi[host][lf]Host: 0380556ip57dpb3771.speedup.mobi[lf][host]@0380556ip57dpb3771.speedup.mobi[lf][lf]",
             "sni": ""
         },
         "config_v2ray": null,
