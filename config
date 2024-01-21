@@ -18,7 +18,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "PATCH / HTTP/1.1[lf]Host: 0380556ip57dpb3771.speedup.mobilf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]#GET / HTTP/1.1[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf]@0380556ip57dpb3771.speedup.mobi[host][lf]Host: 0380556ip57dpb3771.speedup.mobi[lf][host]@0380556ip57dpb3771.speedup.mobi[lf][lf]",
+            "payload": "PATCH / HTTP/1.1[lf]Host: 0380556ip57dpb3771.speedup.mobi[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]#GET / HTTP/1.1[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf]@0380556ip57dpb3771.speedup.mobi[host][lf]Host: 0380556ip57dpb3771.speedup.mobi[lf][host]@0380556ip57dpb3771.speedup.mobi[lf][lf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -69,7 +69,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "PATCH / HTTP/1.1[lf]Host: 0380556ip57dpb3771.speedup.mobilf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]#GET / HTTP/1.1[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf]@0380556ip57dpb3771.speedup.mobi[host][lf]Host: 0380556ip57dpb3771.speedup.mobi[lf][host]@0380556ip57dpb3771.speedup.mobi[lf][lf]",
+            "payload": "GET / HTTP/1.1[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf][host][lf]Host: [app_host][lf][lf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -82,13 +82,13 @@
         "icon": "https://raw.githubusercontent.com/Elijah8585/TeleNet/main/20231202_130839.png",
         "id": 67074,
         "mode": "SSH_PROXY",
-        "name": "VIVO CONTROLE",
+        "name": "VIVO CONTROLE LE",
         "proxy": {
             "host": "104.16.239.166#104.17.64.225#104.16.239.166#104.16.239.166#104.18.33.113",
             "port": 80
         },
         "server": {
-            "host": "0380556ip57dpb3771.speedup.mobi",
+            "host": "5070507wq69i15sw79.speedup.mobi#36mi9s5300674ae710.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
