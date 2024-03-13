@@ -120,7 +120,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "[delay_split]ACL / HTTP/1.1 [crlf]",
+            "payload": "PATCH / HTTP/1.1[crlf][split]Host: [rotate=seufront][crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]#[rotate=GET;PATCH;HEAD] wss://[rotate=seufront:seuflare]/ HTTP/1.0[crlf]Host: [rotate=web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;m.waze.com;m.twitter.com;twitter.com;c.whatsapp.net;media.whatsapp.net;web.whatsapp.com;m.waze.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;m.waze.com;m.twitter.com;twitter.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;musicaclaro.com.br][crlf]Upgrade: Websocket[crlf]Proxy-Connection: Keep-Alive; Upgrade[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]tl[crlf][crlf]#[split][delay_split]ACL / /\n#HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\n\\n\\n \\n#MOVE / HTTP/1.1[crlf]Host: @shaka_news[crlf]Upgrade: websocket[crlf][crlf]#HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\n\\n\\n \\n#ACL HTTP/1.1[lf]Host: google.es[lf]#PUT / Cache-Control: private: Web-security[crlf]#ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]#ACL / HTTP/1.1[crlf][crlf]#PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -133,14 +133,14 @@
         "icon": "https://raw.githubusercontent.com/Elijah8585/TeleNet/main/20231202_130839.png",
         "id": 67075,
         "mode": "SSH_PROXY",
-        "name": "VIVO SECURITY",
+        "name": "VIVO MODOS",
         "proxy": {
-            "host": "192.99.151.3",
-            "port": 8080
+            "host": "191.252.184.198#www.timlive.tim.com.br#65.9.86.69#65.9.66.10#65.9.86.77#65.9.86.111#65.9.86.64#143.204.98.69#143.204.68.84#143.204.98.33#143.204.215.28#143.204.215.124#143.204.215.54#143.204.176.71#143.204.215.110#143.204.215.127#143.204.98.11#143.204.68.76#143.204.98.104#143.204.215.91#143.204.191.47#143.204.191.102#143.204.215.30#143.204.98.97#143.204.215.11#143.204.176.12913.227.126.39#13.227.126.40#13.227.126.91#99.84.31.114#99.84.31.97#99.84.31.8#99.84.31.80#dex.descomplica.com.br#io.descomplica.com.br#3.163.10.29#3.163.10.81#3.163.10.19#3.163.10.100#conversions.appsflyer.com#3.163.10.112#3.163.10.104#3.163.10.54#3.163.10.121#13.227.97.69#13.227.97.28#13.227.97.116#13.227.97.49#launches.appsflyer.com#13.33.123.128#13.33.123.29#13.33.123.107#13.33.123.19#18.67.145.96#18.64.207.89#13.227.126.58#13.227.126.58#18.67.129.17#frontend-tim-recarga-client.m4u.com.br#108.158.172.101#108.158.172.59#108.158.172.82#108.158.172.10#13.226.22.87#18.67.145.94#108.139.134.18#108.139.182.69#108.139.95.47#108.139.95.121#18.67.145.84#18.67.145.53#18.67.145.97#65.8.214.57#65.8.214.124#65.8.214.122#65.8.214.56#108.139.95.126#108.139.182.15#108.139.182.47#108.139.182.47#18.161.200.50#18.161.200.81#18.161.200.41#18.161.200.80#18.161.200.96#18.67.145.109#104.18.99.70#104.16.239.166#104.18.28.182#104.19.240.25#104.18.29.182#104.19.239.25#104.19.242.25#104.19.241.93#104.18.26.160#104.19.240.93#104.16.237.16#104.19.243.25#104.18.28.181#104.19.237.25#104.17.64.225",
+            "port": 80
         },
         "server": {
-            "host": "192.99.151.3",
-            "port": 8080
+            "host": "937nm349s9304wn411.speedup.mobi#free.elijahssh.shop#191.252.184.198",
+            "port": 80
         },
         "sorter": 1,
         "status": "ACTIVE",
