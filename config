@@ -37,7 +37,7 @@
             "port": 80
         },
         "server": {
-            "host": "n11142w7268n34pf92.speedup.mobi",
+            "host": "25m712841uf207y8q0.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
@@ -88,7 +88,7 @@
             "port": 80
         },
         "server": {
-            "host": "n11142w7268n34pf92.speedup.mobi",
+            "host": "25m712841uf207y8q0.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
@@ -135,11 +135,11 @@
         "mode": "SSH_PROXY",
         "name": "VIVO WS SECURITY",
         "proxy": {
-            "host": "191.252.184.198",
+            "host": "167.114.129.102",
             "port": 8080
         },
         "server": {
-            "host": "191.252.184.198",
+            "host": "167.114.129.102",
             "port": 8080
         },
         "sorter": 1,
@@ -190,7 +190,7 @@
             "port": 80
         },
         "server": {
-            "host": "n11142w7268n34pf92.speedup.mobi",
+            "host": "25m712841uf207y8q0.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
