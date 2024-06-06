@@ -182,7 +182,7 @@
             "dns2": "8.8.4.4"
         },
         "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/20231202_130839.png",
-        "id": 67075,
+        "id": 67076,
         "mode": "SSH_PROXY",
         "name": "VIVO PRÉ TURBO WS",
         "proxy": {
@@ -233,7 +233,7 @@
             "dns2": "8.8.4.4"
         },
         "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/20240528_192947.png",
-        "id": 67076,
+        "id": 67077,
         "mode": "SSH_PROXY",
         "name": "VIVO EASY / TIM VALIDO",
         "proxy": {
@@ -284,7 +284,7 @@
             "dns2": "8.8.4.4"
         },
         "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/20231202_130839.png",
-        "id": 67077,
+        "id": 67078,
         "mode": "SSH_PROXY",
         "name": "VIVO PRÉ TURBO",
         "proxy": {
@@ -335,7 +335,7 @@
             "dns2": "8.8.4.4"
         },
         "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/Claro-logo-C82D96482A-seeklogo.com.png",
-        "id": 67078,
+        "id": 67079,
         "mode": "SSH_PROXY",
         "name": "CLARO PRE / PLANOS",
         "proxy": {
@@ -386,7 +386,7 @@
             "dns2": "8.8.4.4"
         },
         "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/tim-25.png",
-        "id": 67079,
+        "id": 67080,
         "mode": "SSH_PROXY",
         "name": "TIM SALDO VALIDO",
         "proxy": {
@@ -437,7 +437,7 @@
             "dns2": "8.8.4.4"
         },
         "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/Claro-logo-C82D96482A-seeklogo.com.png",
-        "id": 67080,
+        "id": 67081,
         "mode": "SSH_PROXY",
         "name": "CLARO PRE / PLANOS 2",
         "proxy": {
@@ -488,7 +488,7 @@
             "dns2": "8.8.4.4"
         },
         "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/20240528_191006.png",
-        "id": 67081,
+        "id": 67082,
         "mode": "SSH_PROXY",
         "name": "VIVO / CLARO PRE",
         "proxy": {
