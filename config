@@ -9,7 +9,7 @@
             "color": "#0eb51f",
             "created_at": "2023-07-24 16:38:13",
             "id": 5467,
-            "name": "CONEXÃO UNIVERSAL",
+            "name": "CONEXÕES SSH",
             "sorter": 3,
             "status": "ACTIVE",
             "updated_at": "2023-07-24 16:38:13",
@@ -18,7 +18,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "PATCH / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]#GET / HTTP/1.1[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf]@[app_host][host][lf]Host: [app_host][lf][host]@[app_host][lf][lf]",
+            "payload": "PATCH / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]#GET / HTTP/1.1[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf]@[app_host][host][lf]Host: [app_host][lf][host]@[app_host][lf][lf]PATCH / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]#HEAD / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -28,16 +28,16 @@
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
-        "icon": "https://raw.githubusercontent.com/Elijah8585/TeleNet/main/20231202_130839.png",
+        "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/20240528_190853.png",
         "id": 67073,
         "mode": "SSH_PROXY",
         "name": "UNIVERSAL",
         "proxy": {
-            "host": "108.139.182.44#108.139.182.13#108.139.182.125#108.139.182.91#18.67.129.14#18.67.129.77#18.67.129.73#18.67.129.122#18.67.129.77#18.67.129.122#18.67.129.73#18.67.129.14#13.227.126.18#13.227.126.7#13.227.126.119#13.227.126.2#13.227.126.18#13.227.126.7#13.227.126.119#13.227.126.2#108.139.182.80#108.139.182.102#108.139.182.17#108.139.182.18#18.67.145.128#18.67.145.113#18.67.145.51#18.67.145.105#108.139.95.70#108.139.95.34#108.139.95.9#108.139.95.25#18.64.207.113#18.64.207.6#18.64.207.103#18.64.207.38#108.158.122.62#108.158.122.32#108.158.122.97#108.158.122.24#170.82.174.15#170.82.174.15#52.85.24.47#52.85.24.89#52.85.24.11#52.85.24.19#3.162.247.13#3.162.247.73#3.162.247.25#3.162.247.51#18.161.200.93#18.161.200.122#18.161.200.72#18.161.200.25#13.33.123.115#13.33.123.2#13.33.123.10#13.33.123.112#13.33.123.112#13.33.123.10#13.33.123.115#13.33.123.2#3.163.10.19#3.163.10.100#3.163.10.81#3.163.10.29",
+            "host": "108.139.182.100#108.139.182.44#108.139.182.13#108.139.182.125#108.139.182.91#18.67.129.77#108.139.182.44#108.139.182.13#108.139.182.125#108.139.182.91#18.67.129.14#18.67.129.77#18.67.129.73#18.67.129.122#18.67.129.77#18.67.129.122#18.67.129.73#18.67.129.14#13.227.126.18#13.227.126.7#13.227.126.119#13.227.126.2#13.227.126.18#13.227.126.7#13.227.126.119#13.227.126.2#108.139.182.80#108.139.182.102#108.139.182.17#108.139.182.18#18.67.145.128#18.67.145.113#18.67.145.51#18.67.145.105#108.139.95.70#108.139.95.34#108.139.95.9#108.139.95.25#18.64.207.113#18.64.207.6#18.64.207.103#18.64.207.38#108.158.122.62#108.158.122.32#108.158.122.97#108.158.122.24#170.82.174.15#170.82.174.15#52.85.24.47#52.85.24.89#52.85.24.11#52.85.24.19#3.162.247.13#3.162.247.73#3.162.247.25#3.162.247.51#18.161.200.93#18.161.200.122#18.161.200.72#18.161.200.25#13.33.123.115#13.33.123.2#13.33.123.10#13.33.123.112#13.33.123.112#13.33.123.10#13.33.123.115#13.33.123.2#3.163.10.19#3.163.10.100#3.163.10.81#3.163.10.29",
             "port": 80
         },
         "server": {
-            "host": "61811z6uo2o226071z.speedup.mobi#12p70c204u446161nl.speedup.mobi#62857k91z1q0m49w51.speedup.mobi",
+            "host": "s7ya4733753j1i1672.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
@@ -60,7 +60,7 @@
             "color": "#0eb51f",
             "created_at": "2023-07-24 16:38:13",
             "id": 5467,
-            "name": "CONEXÃO UNIVERSAL",
+            "name": "CONEXÕES SSH",
             "sorter": 3,
             "status": "ACTIVE",
             "updated_at": "2023-07-24 16:38:13",
@@ -79,16 +79,16 @@
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
-        "icon": "https://raw.githubusercontent.com/Elijah8585/TeleNet/main/20231202_130839.png",
+        "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/20231202_130839.png",
         "id": 67074,
         "mode": "SSH_PROXY",
-        "name": "VIVO CONTROLE LE",
+        "name": "VIVO CONTROLE",
         "proxy": {
             "host": "104.16.239.166#104.17.64.225#104.16.239.166#104.16.239.166#104.18.33.113#108.139.182.44#108.139.182.13#108.139.182.125#108.139.182.91#18.67.129.14#18.67.129.77#18.67.129.73#18.67.129.122#18.67.129.77#18.67.129.122#18.67.129.73#18.67.129.14#13.227.126.18#13.227.126.7#13.227.126.119#13.227.126.2#13.227.126.18#13.227.126.7#13.227.126.119#13.227.126.2#108.139.182.80#108.139.182.102#108.139.182.17#108.139.182.18#18.67.145.128#18.67.145.113#18.67.145.51#18.67.145.105#108.139.95.70#108.139.95.34#108.139.95.9#108.139.95.25#18.64.207.113#18.64.207.6#18.64.207.103#18.64.207.38#108.158.122.62#108.158.122.32#108.158.122.97#108.158.122.24#170.82.174.15#170.82.174.15#52.85.24.47#52.85.24.89#52.85.24.11#52.85.24.19#3.162.247.13#3.162.247.73#3.162.247.25#3.162.247.51#18.161.200.93#18.161.200.122#18.161.200.72#18.161.200.25#13.33.123.115#13.33.123.2#13.33.123.10#13.33.123.112#13.33.123.112#13.33.123.10#13.33.123.115#13.33.123.2#3.163.10.19#3.163.10.100#3.163.10.81#3.163.10.29",
             "port": 80
         },
         "server": {
-            "host": "93s753x68a71s6c714.speedup.mobi#q533291l4153igj178.speedup.mobi",
+            "host": "s7ya4733753j1i1672.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
@@ -111,7 +111,7 @@
             "color": "#0eb51f",
             "created_at": "2023-07-24 16:38:13",
             "id": 5467,
-            "name": "CONEXÃO UNIVERSAL",
+            "name": "CONEXÕES SSH",
             "sorter": 3,
             "status": "ACTIVE",
             "updated_at": "2023-07-24 16:38:13",
@@ -120,7 +120,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n#[delay_split]ACL / HTTP/1.1 [crlf]",
+            "payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n#[delay_split]ACL / HTTP/1.1 [crlf]#HTTP/7 911[crlf]F[crlf]D[crlf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -130,16 +130,16 @@
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
-        "icon": "https://raw.githubusercontent.com/Elijah8585/TeleNet/main/20231202_130839.png",
+        "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/20231202_130839.png",
         "id": 67075,
         "mode": "SSH_PROXY",
-        "name": "VIVO WS SECURITY",
+        "name": "VIVO WS PRE",
         "proxy": {
-            "host": "167.114.129.98",
+            "host": "167.114.129.102",
             "port": 8080
         },
         "server": {
-            "host": "167.114.129.98",
+            "host": "167.114.129.102",
             "port": 8080
         },
         "sorter": 1,
@@ -162,7 +162,7 @@
             "color": "#0eb51f",
             "created_at": "2023-07-24 16:38:13",
             "id": 5467,
-            "name": "CONEXÃO UNIVERSAL",
+            "name": "CONEXÕES SSH",
             "sorter": 3,
             "status": "ACTIVE",
             "updated_at": "2023-07-24 16:38:13",
@@ -171,7 +171,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "PATCH / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]#HEAD / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+            "payload": "PATCH /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: d1eb62kd21ab5i.cloudfront.net[crlf] [crlf]PATCH / / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#HEAD /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: d1eb62kd21ab5i.cloudfront.net[crlf] [crlf]HEAD / / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -181,16 +181,16 @@
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
-        "icon": "https://raw.githubusercontent.com/Elijah8585/TeleNet/main/20231202_130839.png",
+        "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/20240528_192947.png",
         "id": 67076,
         "mode": "SSH_PROXY",
-        "name": "VIVO PRÉ TURBO",
+        "name": "VIVO EASY / TIM VALIDO",
         "proxy": {
-            "host": "108.139.182.100#108.139.182.44#108.139.182.13#108.139.182.125#108.139.182.91#18.67.129.77",
+            "host": "s7ya4733753j1i1672.speedup.mobi",
             "port": 80
         },
         "server": {
-            "host": "93s753x68a71s6c714.speedup.mobi#q533291l4153igj178.speedup.mobi",
+            "host": "s7ya4733753j1i1672.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
@@ -213,7 +213,7 @@
             "color": "#0eb51f",
             "created_at": "2023-07-24 16:38:13",
             "id": 5467,
-            "name": "CONEXÃO UNIVERSAL",
+            "name": "CONEXÕES SSH",
             "sorter": 3,
             "status": "ACTIVE",
             "updated_at": "2023-07-24 16:38:13",
@@ -232,10 +232,10 @@
             "dns1": "8.8.8.8",
             "dns2": "8.8.4.4"
         },
-        "icon": "https://raw.githubusercontent.com/Elijah8585/TeleNet/main/20231202_130839.png",
+        "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/20231202_130839.png",
         "id": 67077,
         "mode": "SSH_PROXY",
-        "name": "VIVO PRÉ TURBO 2",
+        "name": "VIVO PRÉ TURBO",
         "proxy": {
             "host": "104.18.99.70#104.16.239.166#104.18.28.182#104.19.240.25#104.18.29.182#104.19.239.25#104.19.242.25#104.19.241.93#104.18.26.160#104.19.240.93#104.16.237.16#104.19.243.25#104.18.28.181#104.19.237.25#104.17.64.225",
             "port": 80
@@ -243,6 +243,210 @@
         "server": {
             "host": "telenet.fun",
             "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://186.233.118.151:5000",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "CONEXÕES SSH",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "PATCH / HTTP/1.1[crlf]Host: [random=meuplanoclaro.com.br;api.whatsapp.com;m.twitter.com;m.waze.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;twitter.com;dns.web.whatsapp.com;static.whatsapp.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]#HEAD / HTTP/1.1[crlf]Host: [random=meuplanoclaro.com.br;api.whatsapp.com;m.twitter.com;m.waze.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;twitter.com;dns.web.whatsapp.com;static.whatsapp.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "websocket security",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/Claro-logo-C82D96482A-seeklogo.com.png",
+        "id": 67078,
+        "mode": "SSH_PROXY",
+        "name": "CLARO PRE / PLANOS",
+        "proxy": {
+            "host": "167.114.129.102",
+            "port": 8080
+        },
+        "server": {
+            "host": "167.114.129.102",
+            "port": 8080
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://186.233.118.151:5000",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "CONEXÕES SSH",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "PATCH /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: [rotate=checkout.descomplica.com.br;d3awytnmmfk53d.cloudfront.net;dnnsjdj5swfc3.cloudfront.net][crlf] [crlf]PATCH / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]#HEAD /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: [rotate=checkout.descomplica.com.br;d3awytnmmfk53d.cloudfront.net;dnnsjdj5swfc3.cloudfront.net][crlf] [crlf]HEAD / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "websocket front",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/tim-25.png",
+        "id": 67079,
+        "mode": "SSH_PROXY",
+        "name": "TIM SALDO VALIDO",
+        "proxy": {
+            "host": "checkout.descomplica.com.br#dp828as6rrq5m.cloudfront.net#dnnsjdj5swfc3.cloudfront.net#d3awytnmmfk53d.cloudfront.net",
+            "port": 80
+        },
+        "server": {
+            "host": "s7ya4733753j1i1672.speedup.mobi",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://186.233.118.151:5000",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "CONEXÕES SSH",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "GET http://m.claro.com.br HTTP/1.0[crlf]Host: http://m.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]#GET http://ecob.claro.com.br HTTP/1.0[crlf]Host: http://ecob.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]#GET http://bonuz.claro.com.br HTTP/1.0[crlf]Host: http://contaonline2.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]#GET http://api.commandcenter.claro.com.br HTTP/1.0[crlf]Host: http://api.commandcenter.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "websocket security",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/Claro-logo-C82D96482A-seeklogo.com.png",
+        "id": 67080,
+        "mode": "SSH_PROXY",
+        "name": "CLARO PRE / PLANOS 2",
+        "proxy": {
+            "host": "167.114.129.102",
+            "port": 8080
+        },
+        "server": {
+            "host": "167.114.129.102",
+            "port": 8080
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.3",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-28 16:06:06",
+        "url_check_user": "http://186.233.118.151:5000",
+        "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+    },
+    {
+        "auth": {
+            "password": null,
+            "username": null,
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#0eb51f",
+            "created_at": "2023-07-24 16:38:13",
+            "id": 5467,
+            "name": "CONEXÕES SSH",
+            "sorter": 3,
+            "status": "ACTIVE",
+            "updated_at": "2023-07-24 16:38:13",
+            "user_id": "d37036c7-833d-4246-8b45-c0ce6e8daaa2"
+        },
+        "category_id": 5467,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "GET http://m.claro.com.br HTTP/1.0[crlf]Host: http://m.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]#GET http://ecob.claro.com.br HTTP/1.0[crlf]Host: http://ecob.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]#GET http://bonuz.claro.com.br HTTP/1.0[crlf]Host: http://contaonline2.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]#GET http://api.commandcenter.claro.com.br HTTP/1.0[crlf]Host: http://api.commandcenter.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]#GET http://api.commandcenter.claro.com.br HTTP/1.0[crlf]Host: http://api.commandcenter.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]#PATCH / HTTP/1.1[crlf]Host: [random=meuplanoclaro.com.br;api.whatsapp.com;m.twitter.com;m.waze.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;twitter.com;dns.web.whatsapp.com;static.whatsapp.com;business.whatsapp.com;web.whatsapp.com;dns.web.whatsapp.com;m.twitter.com;m.waze.com;waze.com;www.waze.com][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]#[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n#PROPFIND HTTP/1.0 Host:www.whattsapp HTTP/1.0\n",
+            "sni": ""
+        },
+        "config_v2ray": null,
+        "created_at": "2023-07-24 18:20:54",
+        "description": "websocket security",
+        "dns_server": {
+            "dns1": "8.8.8.8",
+            "dns2": "8.8.4.4"
+        },
+        "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/20240528_191006.png",
+        "id": 67081,
+        "mode": "SSH_PROXY",
+        "name": "VIVO / CLARO PRE",
+        "proxy": {
+            "host": "167.114.129.102",
+            "port": 8080
+        },
+        "server": {
+            "host": "167.114.129.102",
+            "port": 8080
         },
         "sorter": 1,
         "status": "ACTIVE",
