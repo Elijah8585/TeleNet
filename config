@@ -37,7 +37,7 @@
             "port": 80
         },
         "server": {
-            "host": "s7ya4733753j1i1672.speedup.mobi",
+            "host": "s7ya4733753j1i1672.speedup.mobi#913q77d7p7115q53y7.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
@@ -88,7 +88,7 @@
             "port": 80
         },
         "server": {
-            "host": "s7ya4733753j1i1672.speedup.mobi",
+            "host": "s7ya4733753j1i1672.speedup.mobi#913q77d7p7115q53y7.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
@@ -171,7 +171,7 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "[delay_split]ACL / HTTP/1.1 [crlf]#[delay_split]ACL / HTTP/7 911[crlf]F[crlf]D[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "payload": "[delay_split]ACL / HTTP/7 911[crlf]F[crlf]D[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -237,11 +237,11 @@
         "mode": "SSH_PROXY",
         "name": "VIVO EASY / TIM VALIDO",
         "proxy": {
-            "host": "s7ya4733753j1i1672.speedup.mobi",
+            "host": "s7ya4733753j1i1672.speedup.mobi#913q77d7p7115q53y7.speedup.mobi",
             "port": 80
         },
         "server": {
-            "host": "s7ya4733753j1i1672.speedup.mobi",
+            "host": "s7ya4733753j1i1672.speedup.mobi#913q77d7p7115q53y7.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
@@ -388,13 +388,13 @@
         "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/tim-25.png",
         "id": 67080,
         "mode": "SSH_PROXY",
-        "name": "TIM SALDO VALIDO",
+        "name": "TIM / SALDO VALIDO",
         "proxy": {
             "host": "checkout.descomplica.com.br#dp828as6rrq5m.cloudfront.net#dnnsjdj5swfc3.cloudfront.net#d3awytnmmfk53d.cloudfront.net",
             "port": 80
         },
         "server": {
-            "host": "s7ya4733753j1i1672.speedup.mobi",
+            "host": "s7ya4733753j1i1672.speedup.mobi#913q77d7p7115q53y7.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
