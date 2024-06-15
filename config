@@ -37,7 +37,7 @@
             "port": 80
         },
         "server": {
-            "host": "s7ya4733753j1i1672.speedup.mobi#913q77d7p7115q53y7.speedup.mobi",
+            "host": "62w7s6148633m1ql51.speedup.mobi#tf510j142us6318758.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
@@ -88,7 +88,7 @@
             "port": 80
         },
         "server": {
-            "host": "s7ya4733753j1i1672.speedup.mobi#913q77d7p7115q53y7.speedup.mobi",
+            "host": "62w7s6148633m1ql51.speedup.mobi#tf510j142us6318758.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
@@ -237,7 +237,7 @@
         "mode": "SSH_PROXY",
         "name": "VIVO EASY / TIM VALIDO",
         "proxy": {
-            "host": "s7ya4733753j1i1672.speedup.mobi#913q77d7p7115q53y7.speedup.mobi",
+            "host": "62w7s6148633m1ql51.speedup.mobi#tf510j142us6318758.speedup.mobi",
             "port": 80
         },
         "server": {
@@ -394,7 +394,7 @@
             "port": 80
         },
         "server": {
-            "host": "s7ya4733753j1i1672.speedup.mobi#913q77d7p7115q53y7.speedup.mobi",
+            "host": "62w7s6148633m1ql51.speedup.mobi#tf510j142us6318758.speedup.mobi",
             "port": 80
         },
         "sorter": 1,
