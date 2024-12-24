@@ -120,7 +120,11 @@
         "category_id": 5467,
         "config_openvpn": null,
         "config_payload": {
-            "payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n#[delay_split]ACL / HTTP/1.1 [crlf]#[delay_split]ACL / HTTP/7 911[crlf]F[crlf]D[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "payload": "[delay_split]ACL / HTTP/1.1[lf][crlf]Host:[rotate= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]#PATCH /chat HTTP/1.1
+Host: vivo.com.br
+Connection: Upgrade
+Upgrade: websocket
+User-Agent: WhatsApp/2.16.259 Mozilla/5.0 (Linux; Unix 10.0; MHA-L29 Build/HUAWEIMHA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36\n\n#HTTP/1.1[crlf] 200 Connection established\r\nHost: GET /? HTTP/2.0\r\nHost: youtube.com\r\n200 Connection established\r\nProxy-Connection: close\r\nConnection-Keep-true\r\nControl-Cache: no-cache\r\nContent-Length: 9999999999999999999\r\nUser-Agent: Yes \r\nContent-Encoding: 88888888\r\nContent-Language: 00000000\r\nContent-Length: 55555555\r\nContent-Location:33333333[crlf][crlf]#[delay_split]ACL / HTTP/1.1[crlf]Host: app_host[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]#http://portal.vivo.com.br#[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n#PATCH / HTTP/1.1[crlf]Host: app_host[crlf]Host: cname.ftjl.app[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "sni": ""
         },
         "config_v2ray": null,
@@ -133,13 +137,13 @@
         "icon": "https://raw.githubusercontent.com/Elijahrepo/Weslley/main/20231202_130839.png",
         "id": 67075,
         "mode": "SSH_PROXY",
-        "name": "VIVO WS PRÉ",
+        "name": "VIVO WS PRÉ Novo",
         "proxy": {
-            "host": "191.252.110.237",
+            "host": "148.113.195.34",
             "port": 8080
         },
         "server": {
-            "host": "191.252.110.237",
+            "host": "148.113.195.34",
             "port": 8080
         },
         "sorter": 1,
@@ -186,11 +190,11 @@
         "mode": "SSH_PROXY",
         "name": "VIVO PRÉ TURBO WS",
         "proxy": {
-            "host": "191.252.110.237",
+            "host": "148.113.195.34",
             "port": 8080
         },
         "server": {
-            "host": "191.252.110.237",
+            "host": "148.113.195.34",
             "port": 8080
         },
         "sorter": 1,
@@ -441,11 +445,11 @@
         "mode": "SSH_PROXY",
         "name": "CLARO PRE / PLANOS 2",
         "proxy": {
-            "host": "191.252.110.237",
+            "host": "148.113.195.34",
             "port": 8080
         },
         "server": {
-            "host": "191.252.110.237",
+            "host": "148.113.195.34",
             "port": 8080
         },
         "sorter": 1,
@@ -492,11 +496,11 @@
         "mode": "SSH_PROXY",
         "name": "VIVO / CLARO PRE",
         "proxy": {
-            "host": "191.252.110.237",
+            "host": "148.113.195.34",
             "port": 8080
         },
         "server": {
-            "host": "191.252.110.237",
+            "host": "148.113.195.34",
             "port": 8080
         },
         "sorter": 1,
